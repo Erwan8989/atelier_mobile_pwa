@@ -24,21 +24,20 @@
     list-style: none;
 }
 
-.daily-list{
-    display: flex;
-    flex-direction: row;
-    align-items: baseline;
-    margin: auto;
-    justify-content: center;
-    width: 300px;
-}
-
-.daily-list ul{
-    width: 30%;
-}
-
-.daily-list  img{
+.img_list {
     height: 15px;
     width: 15px;
     margin-left: 10px;
+}
+
+.temp {
+    text-align: right;
+}
+
+.days {
+    text-align: left;
+}
+
+.test {
+    width: 1px !important;
 }
