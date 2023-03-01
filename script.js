@@ -139,12 +139,6 @@ function weatherAPILondre(){
 
         let data = JSON.parse(http.response);
         let hourly = data.hourly;
-        let temperature_2m = hourly.temperature_2m;
-        let windspeed_10m = hourly.windspeed_10m;
-        let visibility = hourly.visibility
-        console.log(hourly);
-        console.log(temperature_2m);
-        console.log(temperature_2m[12]);
 
 
         localStorage.clear();
@@ -225,13 +219,6 @@ function weatherAPIParis(){
 
         let data = JSON.parse(http.response);
         let hourly = data.hourly;
-        let temperature_2m = hourly.temperature_2m;
-        let windspeed_10m = hourly.windspeed_10m;
-        let visibility = hourly.visibility
-        console.log(hourly);
-        console.log(temperature_2m);
-        console.log(temperature_2m[12]);
-
 
         localStorage.clear();
 
@@ -312,12 +299,6 @@ function weatherAPIMadrid(){
 
         let data = JSON.parse(http.response);
         let hourly = data.hourly;
-        let temperature_2m = hourly.temperature_2m;
-        let windspeed_10m = hourly.windspeed_10m;
-        let visibility = hourly.visibility
-        console.log(hourly);
-        console.log(temperature_2m);
-        console.log(temperature_2m[12]);
 
 
         localStorage.clear();
@@ -401,12 +382,6 @@ function weatherAPIBerlin(){
 
         let data = JSON.parse(http.response);
         let hourly = data.hourly;
-        let temperature_2m = hourly.temperature_2m;
-        let windspeed_10m = hourly.windspeed_10m;
-        let visibility = hourly.visibility
-        console.log(hourly);
-        console.log(temperature_2m);
-        console.log(temperature_2m[12]);
 
 
         localStorage.clear();
