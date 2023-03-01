@@ -9,5 +9,6 @@
 	}
   ],
   "start_url": "http://localhost:63343/Atelier%20mobile/index.html",
-  "display": "standalone"
+  "display": "standalone",
+  "background-color": "red"
 }
