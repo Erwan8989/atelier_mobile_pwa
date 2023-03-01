@@ -1,3 +1,13 @@
 {
-   "name": "My First Application"
+  "name": "Misters Meteo",
+  "short_name": "Meteo",
+  "icons": [
+	{
+	  "src": "img/sun.png",
+	  "type": "image/png",
+	  "sizes": "512x512"
+	}
+  ],
+  "start_url": "http://localhost:63343/Atelier%20mobile/index.html",
+  "display": "standalone"
 }
