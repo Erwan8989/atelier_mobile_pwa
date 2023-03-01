@@ -3,6 +3,12 @@
     margin: 0;
 }
 
+body {
+    background-image: url("/images/cloudy-background.jpg");
+    background-color: #cccccc;
+    color: white;
+}
+
 .app-container{
      width: 100%;
      height: 100%;
