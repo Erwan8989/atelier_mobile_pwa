@@ -9,7 +9,7 @@
 	  "type": "image/png"
 	}
   ],
-  "start_url": "/atelier_mobile_pwa/index.html",
+  "start_url": ".",
   "display": "standalone",
   "background-color": "red"
 }
