@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("/images/cloudy-background.jpg");
+    background-image: url("images/cloudy-background.jpg");
     background-color: #cccccc;
     color: white;
 }

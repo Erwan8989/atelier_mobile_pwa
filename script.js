@@ -3,7 +3,7 @@ weatherAPIParis()
 
 $("#london").click(function(){
     let text = $('#monday-value').text();
-        $("#city-name").html("LONDRE")
+        $("#city-name").html("LONDRES")
         $("#temperature").html(text)
         $("#day").html("Lundi")
         $(".hover-style").removeClass("onFocus")

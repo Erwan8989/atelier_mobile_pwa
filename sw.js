@@ -6,6 +6,7 @@ self.addEventListener('install', (e) => {
 		'/atelier_mobile_pwa/style.css',
 		'/atelier_mobile_pwa/images/sun.png',
 		'/atelier_mobile_pwa/images/wind.png',
+		'/atelier_mobile_pwa/images/cloudy-background.jpg',
 		'/atelier_mobile_pwa/images/cloud.png',
 		'/atelier_mobile_pwa/icon/sun_icon.png',
 	];
