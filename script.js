@@ -365,7 +365,6 @@ function weatherAPIMadrid(){
         localStorage.setItem('sunday-visibility', hourly.visibility[154]);
     }
     http.send()
-    return data;
 }
 
 function weatherAPIBerlin(){
