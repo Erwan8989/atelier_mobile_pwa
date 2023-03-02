@@ -7,7 +7,7 @@ self.addEventListener('install', (e) => {
 		'/atelier_mobile_pwa/images/sun.png',
 		'/atelier_mobile_pwa/images/wind.png',
 		'/atelier_mobile_pwa/images/cloud.png',
-		'/atelier_mobile_pwa/icon/fox-icon.png',
+		'/atelier_mobile_pwa/icon/sun_icon.png',
 	];
 });
 
